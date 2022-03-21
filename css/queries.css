@@ -3,12 +3,11 @@
     background-color: #f2f2cd;
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 }
 
-.flex {
-  display: flex;
-}
+@media screen and 
 
 /* .debug {
   background-color: rgba(255, 0, 0, 0.2);
