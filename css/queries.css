@@ -1,9 +1,15 @@
 @media screen and (max-width: 419px) {
-  body {
-    
+  #lezioni .row {
+    background-color: #f2f2cd;
+    display: flex;
+    flex-direction: column;
   }
 }
 
-.debug {
-  background-color: rgba(255, 0, 0, 0.2);
+.flex {
+  display: flex;
 }
+
+/* .debug {
+  background-color: rgba(255, 0, 0, 0.2);
+} */
