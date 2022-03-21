@@ -16,6 +16,15 @@
   }
 }
 
+@media screen and (max-width: 419px) {
+  #why .row {
+    background-color: #f2f2cd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 /* .debug {
   background-color: rgba(255, 0, 0, 0.2);
 } */
