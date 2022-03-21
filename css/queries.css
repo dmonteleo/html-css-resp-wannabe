@@ -7,7 +7,14 @@
   }
 }
 
-@media screen and 
+@media screen and (max-width: 419px) {
+  #steps .row {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
 
 /* .debug {
   background-color: rgba(255, 0, 0, 0.2);
